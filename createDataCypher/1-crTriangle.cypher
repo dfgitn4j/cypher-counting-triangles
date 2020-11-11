@@ -1,3 +1,4 @@
+// CREATE triangle data nbrTriangles across and nbrLevels down
 :param nbrTriangles => 3;
 :param nbrLevels => 3;
 
