@@ -1,5 +1,5 @@
-:param nbrTriangles => 3
-:param nbrLevels => 3
+:param nbrTriangles => 3;
+:param nbrLevels => 3;
 
 // Create a triangles with nbrTriangles at each level for nbrLevels
 // nbrTriangles: cypher parameter is the number of sub-triangles (vertical lines)
